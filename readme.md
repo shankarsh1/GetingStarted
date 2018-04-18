@@ -108,3 +108,12 @@ On branch master
 nothing to commit, working tree clean
 
 D:\server\xampp\htdocs\sites\Giting_Started>
+
+18-Apr-18  03:02 PM    <DIR>          .
+18-Apr-18  03:02 PM    <DIR>          ..
+18-Apr-18  03:03 PM                32 .gitignore
+18-Apr-18  03:02 PM                 0 file.txt
+18-Apr-18  12:43 PM             2,930 readme.md
+18-Apr-18  12:43 PM                30 second.txt
+               4 File(s)          2,992 bytes
+               2 Dir(s)  156,884,156,416 bytes free
