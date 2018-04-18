@@ -54,4 +54,57 @@ D:\server\xampp\htdocs\sites\Giting_Started>subl readme.md
 'subl' is not recognized as an internal or external command,
 operable program or batch file.
 
+D:\server\xampp\htdocs\sites\Giting_Started>git add readme.md
+
+D:\server\xampp\htdocs\sites\Giting_Started>git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   readme.md
+
+
+D:\server\xampp\htdocs\sites\Giting_Started>git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   readme.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        second.txt
+
+
+D:\server\xampp\htdocs\sites\Giting_Started>git add second.txt
+
+D:\server\xampp\htdocs\sites\Giting_Started>git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   readme.md
+        new file:   second.txt
+
+
+D:\server\xampp\htdocs\sites\Giting_Started>git commit -m "Initial commit added read me file from us"
+[master (root-commit) 7630c09] Initial commit added read me file from us
+ 2 files changed, 58 insertions(+)
+ create mode 100644 readme.md
+ create mode 100644 second.txt
+
+D:\server\xampp\htdocs\sites\Giting_Started>git status
+On branch master
+nothing to commit, working tree clean
+
 D:\server\xampp\htdocs\sites\Giting_Started>
