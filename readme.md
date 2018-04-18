@@ -117,26 +117,4 @@ D:\server\xampp\htdocs\sites\Giting_Started>
 18-Apr-18  12:43 PM                30 second.txt
                4 File(s)          2,992 bytes
                2 Dir(s)  156,884,156,416 bytes free
-
-$ ssh-keygen -t rsa -b 4096 -C "umashankarsh1@yahoo.com"
-Generating public/private rsa key pair.
-Enter file in which to save the key (/c/Users/INDUS INFOTEK-2/.ssh/id_rsa):
-Created directory '/c/Users/INDUS INFOTEK-2/.ssh'.
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /c/Users/INDUS INFOTEK-2/.ssh/id_rsa.
-Your public key has been saved in /c/Users/INDUS INFOTEK-2/.ssh/id_rsa.pub.
-The key fingerprint is:
-SHA256:38FWwGRSy4GQ1ZN4HB2HU3Y2SKwjIFHgfhKHnKO+tB0 umashankarsh1@yahoo.com
-The key's randomart image is:
-+---[RSA 4096]----+
-|     o+..+oOX=o=*|
-|    o.o.. o+B*++o|
-|     B...  .+... |
-|    o +  . + .   |
-|   . o .S . =    |
-|  .   o  . o .   |
-|   o E    . .    |
-|  . + .          |
-|   o .           |
-+----[SHA256]-----+
+               
